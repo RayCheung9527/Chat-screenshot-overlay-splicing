@@ -1,5 +1,5 @@
 # 群聊截图_选择性隐藏_拼接出图
-[界面.png](https://github.com/RayCheung9527/Chat-screenshot-overlay-splicing/blob/77aae6441a601380ae7cea28d09fd30fdce2746d/%E7%95%8C%E9%9D%A2.png)
+![界面.png](https://github.com/RayCheung9527/Chat-screenshot-overlay-splicing/blob/77aae6441a601380ae7cea28d09fd30fdce2746d/%E7%95%8C%E9%9D%A2.png)
 
 
 ## 一、软件简介
